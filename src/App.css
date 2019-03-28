@@ -1,33 +1,79 @@
 .App {
-  text-align: center;
-}
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.records{
+  width: 100%;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
 }
-
-.App-link {
-  color: #61dafb;
+.record{
+  width: 30%;
+  height: 90px;
+  border: 1px solid darkseagreen;
+  box-shadow: 0 0 1px darkseagreen;
+  border-radius: 5px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.record_dodgerblue{
+  width: 30%;
+  height: 90px;
+  border: 1px solid dodgerblue;
+  box-shadow: 0 0 1px dodgerblue;
+  border-radius: 5px;
+}
+.record_palevioletred{
+  width: 30%;
+  height: 90px;
+  border: 1px solid palevioletred;
+  box-shadow: 0 0 1px palevioletred;
+  border-radius: 5px;
+}
+.createRecord{
+  padding: 20px 25px;
+  padding-bottom: 0;
+}
+.input{
+  width: 200px;
+  display: inline-block;
+  margin-right: 10px;
+}
+.table{
+  width: 80%;
+  margin-left: 30px;
+  line-height: 30px;
+  border-radius: 5px;
+}
+.tableContent{
+  max-height: 400px;
+  overflow-y: scroll;
+}
+.tableContent::-webkit-scrollbar {
+  display: none;
+}
+.title{
+  /*display: flex;*/
+  /*justify-content: space-between;*/
+  background: #EEE;
+  padding: 0 10px;
+  /*border-radius: 5px;*/
+}
+.titleChild{
+  width: 25%;
+  display: inline-block;
+  padding: 0 5px;
+}
+.tablecontent{
+  padding: 0 10px;
+  line-height: 50px;
+  border-bottom: 1px solid #eee;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+}
+.tablecontent :last-child{
+  border-right: none;
+}
+.contentChild{
+  width: 25%;
+  display: inline-block;
+  padding: 0 10px;
+  border-right: 1px solid #eee;
 }

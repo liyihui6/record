@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c70d1e0-8e69-4bf7-a7a2-11696ae2fc89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-overrides.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LocalStorage/Storage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Balance/Balance.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Balance/Balance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Credit/Credit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Credit/Credit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Debit/Debit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Debit/Debit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/123.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="235" column="83" selection-start-line="235" selection-start-column="83" selection-end-line="235" selection-end-column="83" />
+            <state relative-caret-position="108">
+              <caret line="222" column="50" lean-forward="true" selection-start-line="222" selection-start-column="50" selection-end-line="222" selection-end-column="50" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
                 <element signature="e#180#211#0" />
@@ -161,8 +146,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="58" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -183,34 +168,7 @@
             <path>
               <item name="record" type="b2602c69:ProjectViewProjectNode" />
               <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="record" type="b2602c69:ProjectViewProjectNode" />
-              <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="record" type="b2602c69:ProjectViewProjectNode" />
-              <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="Balance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="record" type="b2602c69:ProjectViewProjectNode" />
-              <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="Credit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="record" type="b2602c69:ProjectViewProjectNode" />
-              <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="Debit" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,6 +189,9 @@
     <property name="ts.external.directory.path" value="E:\WebStorm 2018.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\li\WebstormProjects\record\public" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\li\WebstormProjects\record\src\component\Balance" />
       <recent name="C:\Users\li\WebstormProjects\record\src\component" />
@@ -273,20 +234,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553560689220</updated>
-      <workItem from="1553560690490" duration="32631000" />
+      <workItem from="1553560690490" duration="33210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32631000" />
+    <option name="totallyTimeSpent" value="33210000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="47" y="0" width="1400" height="784" extended-state="0" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -295,7 +255,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14305949" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15490797" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,8 +388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="235" column="83" selection-start-line="235" selection-start-column="83" selection-end-line="235" selection-end-column="83" />
+        <state relative-caret-position="108">
+          <caret line="222" column="50" lean-forward="true" selection-start-line="222" selection-start-column="50" selection-end-line="222" selection-end-column="50" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
             <element signature="e#180#211#0" />
